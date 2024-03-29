@@ -14,7 +14,7 @@ forward = Motion('../../motions/Forwards50.motion')
 backward = Motion('../../motions/Backwards.motion')
 sideStepLeft = Motion('../../motions/SideStepLeft.motion')
 sideStepRight = Motion('../../motions/SideStepRight.motion')
-Turnleft = Motion('../../motions/TurnRight60.motion')
+Turnleft = Motion('../../motions/TurnLeft60.motion')
 HandWave = Motion('../../motions/HandWave.motion')
 def startMotion(motion):
     motion.play()
